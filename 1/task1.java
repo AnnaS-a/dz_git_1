@@ -9,7 +9,7 @@ public class task1 {
         String request = "select * from students WHERE";
         String name = "Ivanov";
         String country = "Russia";
-        String city = "Moscow";
+        String city = "Krasnoyrsk";
         String age = "null";
         String and = "AND";
         StringBuilder sb = new StringBuilder();
